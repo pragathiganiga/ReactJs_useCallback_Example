@@ -1,11 +1,6 @@
 git add README.md
 <<<<<<< HEAD
 # ReactJs_useCallback_Example
-=======
-<<<<<<< HEAD
-# ReactJs_useCallback_Example
-=======
-# React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
